@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LunarTD</title>
+    <style>
+
+        body {
+            background-color: #0a0f1a;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .glow {
+            position: absolute;
+            bottom: 10%;
+            left: 5%;
+            width: 200px;
+            height: 200px;
+            background-color: #4b0082;
+            border-radius: 50%;
+            filter: blur(50px);
+            animation: pulse 2s infinite;
+            opacity: 0.6;
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(0.8); opacity: 0.6; }
+            50% { transform: scale(1); opacity: 0.8; }
+        }
+
+        .content {
+            text-align: center;
+            max-width: 90%;
+            padding: 20px;
+        }
+
+        h3 {
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+        }
+
+        p {
+            font-size: 1rem;
+            margin-bottom: 1.5rem;
+            color: #cfcfcf;
+        }
+
+        .button-container {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            align-items: center;
+        }
+
+        .button {
+            background-color: #141414;
+            color: #ffffff;
+            padding: 12px 24px;
+            border: 2px solid #ffffff;
+            border-radius: 8px;
+            cursor: pointer;
+            text-align: center;
+            font-size: 1rem;
+            transition: background-color 0.3s, transform 0.2s;
+            width: 100%;
+            max-width: 200px;
+        }
+
+        .button:hover {
+            background-color: #4b0082;
+            transform: scale(1.05);
+        }
+
+        @media (min-width: 768px) {
+            h3 {
+                font-size: 2.5rem;
+            }
+            p {
+                font-size: 1.2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="glow"></div>
+
+    <div class="content">
+        <h3>Lunar Test Designs</h3>
+        <p>Choose which project you want to be redirected to!</p>
+        <div class="button-container">
+            <button class="button" onclick="window.open('#', '_blank')">LunarFlix</button>
+            <button class="button" onclick="window.open('#', '_blank')">LunarOS</button>
+            <button class="button" onclick="window.open('#', '_blank')">LunarPatch</button>
+            <button class="button" onclick="window.open('#', '_blank')">LunarSnap</button>
+            <button class="button" onclick="window.open('#', '_blank')">LunarSpy</button>
+            <button class="button" onclick="window.open('#', '_blank')">StarGaze</button>
+        </div>
+    </div>
+
+    <script>
+        function adjustForDevice() {
+            const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+            if (isMobile) {
+                document.body.style.padding = "10px";
+            } else {
+                document.body.style.padding = "0";
+            }
+        }
+
+        window.addEventListener('resize', adjustForDevice);
+        window.addEventListener('load', adjustForDevice);
+    </script>
+</body>
+</html>
