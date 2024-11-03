@@ -17,7 +17,8 @@ To make it easier for Visitors to find Our project test designs, We've put them 
 Please note that any projects listed below are what We're currently working on. While We have many, these are ones that We mainly focus on and develop. You can use the links below or visit Our [GitHub Pages](https://lunarorg.github.io/LunarTD) site to navigate the projects:  
 
 - [LunarFlix](https://lunarorg.github.io/LunarTD/lunarflix/index.html): A website and Android WebView application that allows watching free movies and TV shows.  
-- [LunarOS](https://lunarorg.github.io/LunarTD/lunaros/index.html): A custom mobile based operating system, built from the ground up.  
+- [LunarOS](https://lunarorg.github.io/LunarTD/lunaros/index.html): A custom mobile based operating system, built from the ground up.
+- [LunarPatch](https://lunarorg.github.io/LunarTD/lunarpatch/index.html): An application for Android that allows custom patches to popular Android applications and games.
 - [LunarSnap](https://lunarorg.github.io/LunarTD/lunarsnap/index.html): A SnapChat modification for Android.  
 - [LunarSpy](https://lunarorg.github.io/LunarTD/lunarspy/index.html): An AI powered OSINT application for Android.  
 - [StarGaze](https://lunarorg.github.io/LunarTD/stargaze/index.html): Our social media application for Android.
