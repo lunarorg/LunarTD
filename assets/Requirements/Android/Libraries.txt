@@ -1,0 +1,22 @@
+<! CustomScriptor * LunarType_Simplified >
+
+  Lunar
+   LunarCore
+    LunarSystem
+    LunarDev
+     LunarFramework
+     LunarServices
+    LunarOperatingSystems
+    LunarArchives
+     LunarNetworking
+    LunarDebugging
+    LunarApplications
+     LunarGaming
+    LunarAI
+      LunarInterface
+      LunarDesign
+      LunarTesting
+      LunarMedia
+      LunarData
+      LunarAnayltics
+      LunarDiagnostics

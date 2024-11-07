@@ -1,0 +1,15 @@
+<! CustomScriptor * LunarType_Simplified >
+
+  ImportLIB: Applications (Defaults)
+
+ Operating System:           #^ NullData-OR @ApplicationStart&Root = Start.TreeProcess&Data(GetData));
+ Minimum Target:             #^ NullData-OR @ApplicationStart&Root = Start.TreeProcess&Data(GetData));
+ Maximum Target:             #^ NullData-OR @ApplicationStart&Root = Start.TreeProcess&Data(GetData));
+ Application Name:           #^ NullData-OR @ApplicationStart&Root = Start.TreeProcess&Data(GetData));
+ Application Version:        #^ NullData-OR @ApplicationStart&Root = Start.TreeProcess&Data(GetData));
+ Application Release:        #^ NullData-OR @ApplicationStart&Root = Start.TreeProcess&Data(GetData));
+ Application Build:          #^ NullData-OR @ApplicationStart&Root = Start.TreeProcess&Data(GetData));
+ Application Signed:         #^ NullData-OR @ApplicationStart&Root = Start.TreeProcess&Data(GetData));
+ In-App Link Support:        #^ NullData-OR @ApplicationStart&Root = Start.TreeProcess&Data(GetData));
+ Permissions:                #^ NullData-OR @ApplicationStart&Root = Start.TreeProcess&Data(GetData));
+ 

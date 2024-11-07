@@ -1,0 +1,10 @@
+<! CustomScriptor * LunarType_Simplified >
+
+ Imply&Import&Invoke: E20BBAG82F6E
+
+  SecurityFramework.Process());
+ StartTree.Process > Value&Encryption
+  LIB.Hidden^PermissionsNull
+   CharacterSet: 1234567890abcdefghijklmnopqrstuvwxyz!"£$%^&*()_-+=#~'@<>,/|\?{}[]
+   CharacterLimit: Limitless
+ ForEvery % X1Character , InvokeX14Characters {CharacterSet}

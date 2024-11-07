@@ -1,0 +1,16 @@
+<! CustomScriptor * LunarType_Simplified >
+
+ Hide.DeviceName
+ Hide.PhoneNumbers
+ Hide.ProductName
+ Hide.ModelName
+ Hide.SerialNumber
+ Hide.IMEISlot1
+ Hide.IMEISlot2
+ Hide.StatusInfo(All)
+ Hide.LegalInfo(All)
+ Hide.SoftwareInfo(All)
+ Hide.BatteryInfo(All)
+
+  Device*InfoVaries @DeviceSystemInfo
+   Device.Support: Windows, Mac, Linux, Android, IOS, PlayStation, Xbox, Nintendo
