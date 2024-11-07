@@ -16,12 +16,17 @@ To make it easier for Visitors to find Our project test designs, We've put them 
 ### Projects
 Please note that any projects listed below are what We're currently working on. While We have many, these are ones that We mainly focus on and develop. You can use the links below or visit Our [GitHub Pages](https://lunarorg.github.io/LunarTD) site to navigate the projects:  
 
-- [LunarFlix](https://lunarorg.github.io/LunarTD/lunarflix/index.html): A website and Android WebView application that allows watching free movies and TV shows.  
-- [LunarOS](https://lunarorg.github.io/LunarTD/lunaros/index.html): A custom mobile based operating system, built from the ground up.
-- [LunarPatch](https://lunarorg.github.io/LunarTD/lunarpatch/index.html): An application for Android that allows custom patches to popular Android applications and games.
-- [LunarSnap](https://lunarorg.github.io/LunarTD/lunarsnap/index.html): A SnapChat modification for Android.  
-- [LunarSpy](https://lunarorg.github.io/LunarTD/lunarspy/index.html): An AI powered OSINT application for Android.  
-- [StarGaze](https://lunarorg.github.io/LunarTD/stargaze/index.html): Our social media application for Android.
+- [Lunar Browser](https://lunarorg.github.io/LunarTD/lunar-browser/index.html): A Windows and Android based Browser, fully custom and built from the ground up.
+- [LunarCord](https://lunarorg.github.io/LunarTD/lunarcord/index.html): An Android based Discord modification.
+- [LunarDev](https://lunarorg.github.io/LunarTD/lunardev/index.html): Our website, featuring Our projects as well as online tools and more!
+- [LunarFlix](https://lunarorg.github.io/LunarTD/lunarflix/index.html): A Windows and Android based app that can be used to watch free movies and TV shows.
+- [LunarOS](https://lunarorg.github.io/LunarTD/lunaros/index.html): A custom operating system for mobile devices.
+- [LunarPatch](https://lunarorg.github.io/LunarTD/lunarpatch/index.html): An Android based application that allows patching applications and games to extend functionality and customisation.
+- [Lunar Player](https://lunarorg.github.io/LunarTD/lunar-player/index.html): A Windows and Android based media player with advanced settings.
+- [LunarSnap](https://lunarorg.github.io/LunarTD/lunarsnap/index.html): An Android based SnapChat modification.
+- [LunarSpy](https://lunarorg.github.io/LunarTD/lunarspy/index.html): An advanced AI powered OSINT tool for Android.
+- [Lunar Studio](https://lunarorg.github.io/LunarTD/lunar-studio/index.html): An all in one image, video and audio editor for Windows and Android.
+- [StarGaze](https://lunarorg.github.io/LunarTD/stargaze/index.html): Our custom social media app for Windows and Android. Chat with Friends, shop, and more!
 
 <br>  
  <br>  
