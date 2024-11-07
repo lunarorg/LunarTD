@@ -21,7 +21,7 @@ Please note that any projects listed below are what We're currently working on. 
 - [LunarDev](https://lunarorg.github.io/LunarTD/lunardev/index.html): Our website, featuring Our projects as well as online tools and more!
 - [LunarFlix](https://lunarorg.github.io/LunarTD/lunarflix/index.html): A Windows and Android based app that can be used to watch free movies and TV shows.
 - [LunarOS](https://lunarorg.github.io/LunarTD/lunaros/index.html): A custom operating system for mobile devices.
-- [LunarPatch](https://lunarorg.github.io/LunarTD/lunarpatch/index.html): An Android based application that allows patching applications and games to extend functionality and customisation.
+- [LunarPatch](https://lunarorg.github.io/LunarTD/lunarpatch/index.html): An Android based application that allows patching to extend functionality and customisation.
 - [Lunar Player](https://lunarorg.github.io/LunarTD/lunar-player/index.html): A Windows and Android based media player with advanced settings.
 - [LunarSnap](https://lunarorg.github.io/LunarTD/lunarsnap/index.html): An Android based SnapChat modification.
 - [LunarSpy](https://lunarorg.github.io/LunarTD/lunarspy/index.html): An advanced AI powered OSINT tool for Android.
